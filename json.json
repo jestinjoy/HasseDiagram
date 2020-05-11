@@ -1,54 +1,29 @@
 {
    "Playlists": [{
-       "ListTitle": "Zen Work Music",
+       "ListTitle": "ISLRTC",
        "ListItems": [{
-           "Title": "Collaborative Filtering",
-           "link": "https://www.youtube.com/watch?v=hxhdVHBgngg",
-           "thumb": "https: //i.ytimg.com/vi_webp/SbCpzWMWb68/mqdefault.webp"
+           "Title": "Myths about COVID-19 - Part 1 in Indian Sign Language",
+           "link": "https://www.youtube.com/watch?v=_PhrJ0mHYl8&list=PLFjydPMg4Daoq83bOFHLos3RmcAbfP1vF&index=8",
+           "thumb": "http://i3.ytimg.com/vi/_PhrJ0mHYl8/maxresdefault.jpg"
          },
          {
-           "Title": "Relaxing Music - Meditation",
-           "link": "https: //www.youtube.com/watch?v=qrx1vyvtRLY",
-           "thumb": "https: //i.ytimg.com/vi_webp/qrx1vyvtRLY/mqdefault.webp"
+           "Title": "Myths about COVID-19 - Part 2 in Indian Sign Language",
+           "link": "https://www.youtube.com/watch?v=4S6DZxCDWdA&list=PLFjydPMg4Daoq83bOFHLos3RmcAbfP1vF&index=7",
+           "thumb": "http://i3.ytimg.com/vi/_PhrJ0mHYl8/maxresdefault.jpg"
          },
          {
-           "Title": "Relaxing Music - Background",
-           "link": "https: //www.youtube.com/watch?v=loIZy6GqhUw",
-           "thumb": "https: //i.ytimg.com/vi_webp/loIZy6GqhUw/mqdefault.webp"
-         },
-         {
-           "Title": "Delta Waves Sleep Music",
-           "link": "https: //www.youtube.com/watch?v=EshmcHB3yMg",
-           "thumb": "https: //i.ytimg.com/vi_webp/EshmcHB3yMg/mqdefault.webp"
+           "Title": "Myths about COVID-19 - Part 3 in Indian Sign Language",
+           "link": "https://www.youtube.com/watch?v=Ptf8qf7DjoQ&list=PLFjydPMg4Daoq83bOFHLos3RmcAbfP1vF&index=15",
+           "thumb": "http://i3.ytimg.com/vi/_PhrJ0mHYl8/maxresdefault.jpg"
          }
        ]
      },
      {
-       "ListTitle": "Movie Trailers",
+       "ListTitle": "NISH",
        "ListItems": [{
-           "Title": "Chappie",
-           "link": "https: //www.youtube.com/watch?v=lyy7y0QOK-0",
-           "thumb": "https: //i.ytimg.com/vi_webp/lyy7y0QOK-0/mqdefault.webp"
-         },
-         {
-           "Title": "Ex Machina",
-           "link": "https: //www.youtube.com/watch?v=PI8XBKb6DQk",
-           "thumb": "https: //i.ytimg.com/vi_webp/PI8XBKb6DQk/mqdefault.webp"
-         },
-         {
-           "Title": "The Martian",
-           "link": "https: //www.youtube.com/watch?v=u-duq1iMkWU",
-           "thumb": "https: //i.ytimg.com/vi_webp/u-duq1iMkWU/mqdefault.webp"
-         },
-         {
-           "Title": "Gods of Egypt",
-           "link": "https: //www.youtube.com/watch?v=IJBnK2wNQSo",
-           "thumb": "https: //i.ytimg.com/vi_webp/IJBnK2wNQSo/mqdefault.webp"
-         },
-         {
-           "Title": "Angry Birds",
-           "link": "https: //www.youtube.com/watch?v=4pIi4tMJoUs",
-           "thumb": "https: //i.ytimg.com/vi_webp/4pIi4tMJoUs/mqdefault.webp"
+           "Title": "ISL News - 11/5/2020",
+           "link": "https://www.youtube.com/watch?v=VN1FODWo7X0",
+           "thumb": "http://i3.ytimg.com/vi/VN1FODWo7X0/maxresdefault.jpg"
          }
        ]
      }
